@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #111;
+}
+
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+
+#tox{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+}
+
+h1{
+    color: aliceblue;
+}
+
+h2{
+    color: aqua;
+}
+
+#soc{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+}
